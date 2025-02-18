@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{    background-image: url("webdev.jpg");
+  
+    background-size: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card{
+    background-color: rgba(14, 14, 14, 0.768);
+
+position: absolute;
+top: 0px;
+/* height: 600px; */
+height: 100%;
+/* width: 1300px; */
+width: 100%;
+
+}
+
+.box{
+width: 600px;
+height: 350px;
+margin-left: 450px;
+background-color:#024950;
+border-radius: 50px;
+margin-top: 200px;
+}
+
+
+
+
+.mp-tittle{text-align: center;
+    height: 100px;
+font-size: larger;
+font-weight: 700;
+color:#952307;
+margin-top: 100px;
+background-color: antiquewhite;
+display: flex;
+align-items: center;
+justify-content: center;
+border-top-right-radius: 50px;
+border-top-left-radius: 50px;
+}
+
+.BUTTONS{display: flex;
+    justify-content: center;
+margin-top: 60px;
+font-size: large;
+font-weight: 600;
+color: white;
+
+}
+
+#Review{
+    margin-left: 140px;
+    margin-top: 25px;
+}
+
+
+
+
+#first{
+    background-color:#0FA4AF;
+    color: #952307;
+    font-size: medium;
+    font-weight: 700;
+    height: 50px;
+    width: 170px;
+    border-radius: 15px;
+    border: 1.5px solid antiquewhite;
+}
+#first:hover{background-color: #0fa4afbc;}
+
+#second{
+    background-color:#0FA4AF;
+    color: #952307;
+    font-size: medium;
+    font-weight: 700;
+    height: 50px;
+    width: 150px;
+    border-radius: 15px;
+    margin-left: 10px;
+    border: 2px solid antiquewhite;
+}
+#second:hover{
+    background-color: #0fa4afbc;
+}
