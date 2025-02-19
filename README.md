@@ -15,7 +15,7 @@ This is a front-end web project I developed as part of a mini project for my col
 
 - **HTML5**: Markup structure of the web pages.
 - **CSS3**: Styling the page and adding responsiveness.
-- **JavaScript**: Added interactivity and dynamic content.
+- **JavaScript**: Added interactivity and dynamic content such as the searching the specific subject.
 
 
 ## Installation
